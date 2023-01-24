@@ -9,11 +9,11 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Technologies.</h1>
-<h2 align="center"> We are supporting the Arcbridge Resources Deployment.
+<h1 align="center">Welcome to Landmark Technologies Group 18 Devops Engineering team.</h1>
+<h2 align="center"> We are supporting the Ebay Easter Promotion Project.
 	Landmark Technologies is a software development company. 
-	Akinwumi will soon become a devops engineer.
-	The shout of the King Jesus is in our midst. HE IS OUR SUCCESS ACCESS KEY</h2>
+	Today is January 24, 2023.
+	We believe it is achievable with relative ease. HE IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
