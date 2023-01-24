@@ -13,7 +13,7 @@
 <h2 align="center"> We are supporting the Ebay Easter Promotion Project.
 	Landmark Technologies is a software development company. 
 	Today is January 24, 2023.
-	We believe it is achievable with relative ease. HE IS OUR SUCCESS ACCESS KEY</h2>
+	We believe it is achievable with relative ease. JESUS IS OUR SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
 	<span>
