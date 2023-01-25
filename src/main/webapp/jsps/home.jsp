@@ -12,7 +12,7 @@
 <h1 align="center">Welcome to Landmark Technologies Group 18 Devops Engineering team.</h1>
 <h2 align="center"> We are supporting the Ebay Easter Promotion Project.
 	Landmark Technologies is a software development company. 
-	Today is January 24, 2023.
+	Today is January 25, 2023.
 	We believe it is achievable with relative ease. JESUS IS OUR ONLY SUCCESS ACCESS KEY</h2>
 <hr>
 <div style="text-align: center;">
